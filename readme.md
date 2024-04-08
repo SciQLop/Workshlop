@@ -3,7 +3,7 @@
 WorkshLOP is a yearly based workshop gathering SciQLOP users.
 
 Edition 2024 will be in Jussieu.<br />
-Date is TBD
+Wednesday and Thursday June 12,13 2024
 
 ![photo-030-image22741-jpg](https://github.com/SciQLop/Workshlop/assets/3200931/c62a64b8-befc-4a56-a01a-86a479f2ce43)
 
