@@ -8,6 +8,10 @@ Wednesday and Thursday June 12,13 2024
 ![photo-030-image22741-jpg](https://github.com/SciQLop/Workshlop/assets/3200931/c62a64b8-befc-4a56-a01a-86a479f2ce43)
 
 
+# How to come
+
+![image](https://github.com/SciQLop/Workshlop/assets/3200931/f91d2cfd-7d83-4e61-885e-99041fc266ff)
+
 
 
 # (Preliminary) Program
