@@ -2,10 +2,11 @@
 
 WorkshLOP is a yearly based workshop gathering SciQLOP users.
 
-Edition 2024 will be in Jussieu.<br />
+Edition 2024 happened in Jussieu.<br />
 Wednesday and Thursday June 12,13 2024
 
 ![photo-030-image22741-jpg](https://github.com/SciQLop/Workshlop/assets/3200931/c62a64b8-befc-4a56-a01a-86a479f2ce43)
+<img width="1070" alt="image" src="https://github.com/SciQLop/Workshlop/assets/3200931/2f2b3740-de17-4ca7-9c85-d77d3d0e4b71">
 
 
 # How to come
@@ -54,3 +55,7 @@ Wednesday and Thursday June 12,13 2024
 
 - 12h30 : Lunch 
 - End of the workshop
+
+
+
+We acknowledge support from the [Laboratory of Plasma Physics](https://www.lpp.polytechnique.fr)
